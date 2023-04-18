@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPgtSk1m4pOLhI2vaSE9jRf9DvV3pNWHYYeuvNXSUVDlHq31nZT9DMlkAMaw74ai/KrgzFuH72PFHZ4xtVecPA==",
+  "success": true,
+  "projectFilePath": "/home/fignewton/Documents/Projects/DotNet/ci-0154/Ecommerce/Ecommerce.csproj",
+  "expectedPackageFiles": [
+    "/home/fignewton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
